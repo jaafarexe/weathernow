@@ -1,0 +1,6 @@
+{
+  "name": "WeatherNow",
+  "description": "Live weather forecasts, hourly highlights, and 7-day outlook powered by Open-Meteo.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
